@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\AstarAI.cs">
+    <Files>
+      <File FileName="Assets\scripts\RunawayAI.cs" Line="75" Column="2" />
+      <File FileName="Assets\scripts\SphereController.cs" Line="44" Column="3" />
+      <File FileName="Assets\scripts\AstarAI.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
